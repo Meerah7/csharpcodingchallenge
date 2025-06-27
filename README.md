@@ -12,6 +12,6 @@
 
 This project demonstrates strong understanding of:
 - Object-Oriented Programming
-- SQL database interaction
+- SQL database interaction with c#
 - Exception handling
 - NUnit unit testing###
